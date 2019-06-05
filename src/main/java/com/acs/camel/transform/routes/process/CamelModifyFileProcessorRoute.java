@@ -1,4 +1,4 @@
-package com.acs.camel.transform.routes.process.process;
+package com.acs.camel.transform.routes.process;
 
 import com.acs.camel.transform.processors.CamelFileExampleProcessor;
 import org.apache.camel.builder.RouteBuilder;
